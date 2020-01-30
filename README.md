@@ -9,3 +9,5 @@ How to install:
 git clone https://github.com/iljaSL/FDF.git
 
 Inside the directorie -> make -> make run
+
+![fdf](https://gfycat.com/ifr/ObedientSickAmericanbadger)
