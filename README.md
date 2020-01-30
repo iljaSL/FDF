@@ -10,4 +10,4 @@ git clone https://github.com/iljaSL/FDF.git
 
 Inside the directorie -> make -> make run
 
-![fdf](https://gfycat.com/ifr/ObedientSickAmericanbadger)
+![fdf](https://gfycat.com/obedientsickamericanbadger)
