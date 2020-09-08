@@ -6,6 +6,6 @@ FDF is the first project in the graphical brench at Hive Helsinki, in this proje
 
 How to install:
 
-git clone https://github.com/iljaSL/FDF.git
+1. `git clone https://github.com/iljaSL/FDF.git`
 
-Inside the directorie -> `make` -> `make run`
+2 Inside the directorie -> `make` -> `make run`
