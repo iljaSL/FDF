@@ -9,3 +9,5 @@ How to install:
 1. `git clone https://github.com/iljaSL/FDF.git`
 
 2. Inside the directorie -> `make` -> `make run`
+
+3. execute `./fdf`
